@@ -1,11 +1,25 @@
+body{
+
+    background-image: url(img/guitar-case-485112_1920.jpg);
+    
+}
+
 .carsual{
     display: flex;
     flex-direction: column;
     text-align: center;
     align-items: center;
-    
+    height: 250px;
+    margin-top: 200px;
+    margin-bottom: 100px;
 
+}   
+.about{
+    background-color:khaki;
+    margin-top: 50px;
 }
+
+
 #button{
     display: flex;
      
