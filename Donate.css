@@ -1,0 +1,25 @@
+body{
+    background-image: url(img/img2.jpg);
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    background-color:aquamarine;
+    width: 450px;
+    margin-top: 100px;
+    height: 300px;
+    border-radius: 24px;
+    
+}
+
+.testing{
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    margin-top: 13px;
+
+}
